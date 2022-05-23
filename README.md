@@ -1,0 +1,2 @@
+# easy_plant_disease_classification
+透過照片判斷植物健康狀況，目前只包含potato的healthy, early blight與late blight
